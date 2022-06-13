@@ -1,7 +1,7 @@
 ![Books](http://bestanimations.com/Nature/fall/fall-nature-animated-gif-19.gif#.XyiSZs_L7eE.link)
 
 
-I am a Full Stack Web Developer with 3+ years of experienced in building robust Web Applications. From frontend technologies, I use,
+I am a Full Stack Web Developer with some years of experience in building robust Web Applications. From frontend technologies, I use,
 * Vue.js
 * Angular
 * HTML, CSS, Bootstrap (CSS library)
